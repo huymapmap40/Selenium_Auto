@@ -1,0 +1,6 @@
+{
+  "browserName" : "chrome",
+  "remoteAddress" : "http://localhost:4444/wd/hub/",
+  "testTimeOut" : 400000
+}
+
