@@ -14,4 +14,4 @@ webdriver-manager start --versions.standalone=3.141.59
 ```
 
 ## 3. Run the testcase
-From the resource in repo, we run test case with **testng.xml** file or <*the specifically test case*> file
+From the resource in repo, we run test case with **testng.xml** file or <*the specifically test case*> file at src/main/java/test_cases/UI/
